@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32U4"</DEVICE>
+ <WORKING_DIR>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32U4def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\Debug\Project 1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Project 1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Project 1.map</FILE>
+  <FILE>Project 1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <FLASH><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>31</LINE></FLASH>
+  <FLASH_LOOP_ON><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>35</LINE></FLASH_LOOP_ON>
+  <END_FLASH_LOOP_ON><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>42</LINE></END_FLASH_LOOP_ON>
+  <DELAY><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>95</LINE></DELAY>
+  <FLASH_LOOP_OFF><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>46</LINE></FLASH_LOOP_OFF>
+  <END_FLASH_LOOP_OFF><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>51</LINE></END_FLASH_LOOP_OFF>
+  <CHECK_SW_DEC><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>54</LINE></CHECK_SW_DEC>
+  <CHECK_SW_INC><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>64</LINE></CHECK_SW_INC>
+  <RELEASE_DEC><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>85</LINE></RELEASE_DEC>
+  <UNDER_FLOW><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>78</LINE></UNDER_FLOW>
+  <FINISH15><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>61</LINE></FINISH15>
+  <RELEASE_INC><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>90</LINE></RELEASE_INC>
+  <OVER_FLOW><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>73</LINE></OVER_FLOW>
+  <FINISH1><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>71</LINE></FINISH1>
+  <SOUND1><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>108</LINE></SOUND1>
+  <SOUND15><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>131</LINE></SOUND15>
+  <HERE><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>86</LINE></HERE>
+  <HERE1><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>91</LINE></HERE1>
+  <LOOP1><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>99</LINE></LOOP1>
+  <SLOOP1><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>109</LINE></SLOOP1>
+  <SLOOP2><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>110</LINE></SLOOP2>
+  <SLOOP3><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>111</LINE></SLOOP3>
+  <SLOOP4><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>112</LINE></SLOOP4>
+  <SLOOP5><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>132</LINE></SLOOP5>
+  <SLOOP6><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>133</LINE></SLOOP6>
+  <SLOOP7><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>134</LINE></SLOOP7>
+  <SLOOP8><FILE>C:\Users\Tim\Downloads\Project 1-20211018T210517Z-001\Project 1\main.asm</FILE><LINE>135</LINE></SLOOP8>
+ </LABELS>
+</ASSEMBLER_INFO>
